@@ -6,4 +6,5 @@ This repository contains various Utility programs for Image processing and Compu
 2 - Line Detection using RANSAC and Hough Transform,
 3 - K-means Segmentation and SLIC Clustering,
 4 - Image Classification and Pixel Classification,
-5 - Image Data Association and Object Segmentation,
+5 - Image Data Association,
+6 - Object Segmentation.
