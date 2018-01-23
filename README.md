@@ -8,3 +8,7 @@ This repository contains various Utility programs for Image processing and Compu
 4 - Image Classification and Pixel Classification,
 5 - Image Data Association,
 6 - Object Segmentation.
+
+Assignments - 1,2,3,4
+
+Projects - 5,6.
