@@ -11,4 +11,4 @@ This repository contains various Utility programs for Image processing and Compu
 
 Assignments - 1,2,3,4
 
-Projects - 5,6.
+Projects - 5,6
